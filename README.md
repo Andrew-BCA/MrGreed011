@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrGreed011
+- 👋 Hi, I’m @Andrew Patrick
 - 👀 I’m interested in Developing application
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
